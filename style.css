@@ -1,0 +1,28 @@
+body {
+    background-image: url('redGradient.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Open Sans", Arial, "Sans Serif";
+  }
+#title{
+    text-align: center;
+}
+#contender{
+    margin-left:-8px;
+}
+#contender_{
+    margin-left: -3.5px;
+    height: 169px;
+}
+
+p{
+    font-size: 25px;
+    margin-left:-8px;
+}
+
+
+
+
+
+
